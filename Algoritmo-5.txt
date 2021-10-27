@@ -1,0 +1,8 @@
+1.- Inicio
+2.- Ingresar el costo del CPU
+3.- Ingresar el costo del teclado
+4.- Ingresar el costo del pantalla
+5.- Ingresar el costo del ratón
+6.- Sumar el costo del CPU, teclado, pantalla y ratón
+7.- Mostrar en pantalla el resultado
+8.- Fin

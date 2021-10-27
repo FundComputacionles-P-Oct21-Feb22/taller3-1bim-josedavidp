@@ -1,0 +1,6 @@
+1.- Inicio
+2.- Ingresar el costo por minutos
+3.- Ingresar el número de minutos consumidos en el mes
+4.- Se multiplica el numero de minutos por el costo de minutos
+5.- Se muestra el resultado en pantalla
+6.- Fin

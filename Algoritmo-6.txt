@@ -1,0 +1,8 @@
+1.- Inicio
+2.- Ingresar el monto del préstamo
+3.- Ingresar el interés mensual a cobrar
+4.- Se divide el monto del préstamo para 12 meses
+5.- El resultado de la división se multiplica por el interés mensual
+6.- Se suma el interés mensual y el resultado de la división
+7.- Se muestra en pantalla el resultado
+8.- Fin

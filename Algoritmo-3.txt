@@ -1,0 +1,4 @@
+1.- Inicio
+2.- Si se ingresa un valor que está entre 2 y 6 genera una tabla
+3.- En la tabla se muestra los resultados de multiplicar el valor ingresado
+4.- Fin

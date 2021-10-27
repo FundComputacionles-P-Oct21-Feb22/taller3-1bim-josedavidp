@@ -1,0 +1,6 @@
+1.- Inicio
+2.- Se pide la base del triángulo
+3.- Se pida la altura del triángulo
+4.- Se calcula el área del triángulo multiplicando la base por la altura del tríangulo y se divide para dos
+5.- Se muestra el resultado
+6.- Fin

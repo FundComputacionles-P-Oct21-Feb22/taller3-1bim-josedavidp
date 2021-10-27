@@ -1,0 +1,7 @@
+1.- Inicio
+2.- Se pide el valor que gastó el primer hijo
+3.- Se pida el valor que gastó el segundo hijo
+4.- Se pida el valor que gastó el tercer hijo
+5.- Se suman los tres valores
+6.- Se muestra el resultado en pantalla
+7.- Fin

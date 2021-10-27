@@ -1,0 +1,8 @@
+1.- Inicio
+2.- Ingresar la edad
+3.- Ingresar el valor de costo por kilovatio/hora
+4.- Ingresar el número de kilovatios consumidos en el mes
+5.- Se multiplica el número de kilovatios consumidos por el costo de kilovatio/hora
+6.- Si la persona tiene 65 años, al resultado se lo multiplica por el 10% y se suma el valor de la planilla
+7.- Se muestra en pantalla el resultado
+8.- Fin
